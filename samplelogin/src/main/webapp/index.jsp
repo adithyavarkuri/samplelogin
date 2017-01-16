@@ -4,7 +4,7 @@
 </head>
  
 <body>
-<h1>Struts 2 + Hibernate integration example</h1>
+<h1>Struts 2 + Hibernate integratiofsdfsfn example</h1>
 
 <h2>Add Customer</h2>
 <s:form action="addCustomerAction" >
